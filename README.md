@@ -1,6 +1,3 @@
-# Suggested Repository Name
-**Multimodal-Classification-Notebook-Zoo**
-
 # Overview
 A curated set of end-to-end machine learning notebooks focused on **classification across multiple modalities**: tabular, image, audio, and text. The notebooks are practical and model-centric, with each one covering a full workflow (data loading, preprocessing, model training, and evaluation), while using different architectures depending on the modality.
 
